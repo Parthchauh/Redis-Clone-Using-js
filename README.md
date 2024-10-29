@@ -23,11 +23,11 @@ https://redis.io/downloads/
 ```
 
 ### Now configurate it
-1.Add to Environment Variables (Windows Only)
-2.Locate the Redis installation directory.
-3.Right-click on "This PC" > "Properties" > "Advanced system settings" > "Environment Variables".
-4.Select the Path variable, click "Edit...", and add the Redis directory.
-5.Restart terminal sessions.
+- 1.Add to Environment Variables (Windows Only)
+- 2.Locate the Redis installation directory.
+- 3.Right-click on "This PC" > "Properties" > "Advanced system settings" > "Environment Variables".
+- 4.Select the Path variable, click "Edit...", and add the Redis directory.
+- 5.Restart terminal sessions.
 
 
 Run the following command to check:
