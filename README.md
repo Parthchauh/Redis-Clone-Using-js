@@ -15,9 +15,7 @@ A basic in-memory Redis-like server built in Node.js. This clone supports fundam
 - Node.js (version 14 or higher)
 - `redis-parser` module
 
-## Setting Up Redis CLI
-
-## Check if Redis CLI is Installed if not then install it from the Official Redis Website
+## Setting Up Redis CLI (Check if Redis CLI is Installed if not then install it from the Official Redis Website)
 ```
 https://redis.io/downloads/
 ```
