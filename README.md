@@ -23,10 +23,16 @@ A basic in-memory Redis-like server built in Node.js. This clone supports fundam
    cd Redis-Clone-Using-js
 
 # Navigate into the project directory
+```
 cd Redis-Clone-Using-js || exit
+```
 
 # Install dependencies
+```
 npm install
+```
 
 # Start the server
+```
 node server.js
+```
