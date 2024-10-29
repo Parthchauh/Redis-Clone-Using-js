@@ -17,12 +17,12 @@ A basic in-memory Redis-like server built in Node.js. This clone supports fundam
 
 ## Setting Up Redis CLI
 
-### Check if Redis CLI is Installed if not then install it from the Official Redis Website
+## Check if Redis CLI is Installed if not then install it from the Official Redis Website
 ```
 https://redis.io/downloads/
 ```
 
-### Now configurate it
+## Now configurate it
 - 1.Add to Environment Variables (Windows Only)
 - 2.Locate the Redis installation directory.
 - 3.Right-click on "This PC" > "Properties" > "Advanced system settings" > "Environment Variables".
@@ -36,7 +36,7 @@ Run the following command to check:
 redis-cli --version
 ```
 
-###Or You can Spin up the Docker Container
+##Or You can Spin up the Docker Container
 
 ->Install Docker from Docker website.
 
@@ -74,7 +74,7 @@ npm install
 node server.js
 ```
 
-### Screen shots for reference
+## Screen shots for reference
 ![Screenshot 2024-10-29 212931](https://github.com/user-attachments/assets/90744ca7-a66b-4af5-95b9-c7c88443d013)
 
 ![Screenshot 2024-10-29 213101](https://github.com/user-attachments/assets/fa61350a-9b1c-464c-8497-bc34de0ed36b)
