@@ -34,7 +34,7 @@ Run the following command to check:
 redis-cli --version
 ```
 
-##Or You can Spin up the Docker Container
+## Or You can Spin up the Docker Container
 
 ->Install Docker from Docker website.
 
